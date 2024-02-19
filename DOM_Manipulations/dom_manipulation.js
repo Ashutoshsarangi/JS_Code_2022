@@ -11,3 +11,7 @@ console.log("Hello");
 // NODELIST
 
 // These are not arrays, but They are array like structure.
+
+// For more documentations
+
+// https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/
