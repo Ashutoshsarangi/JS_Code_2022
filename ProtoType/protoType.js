@@ -20,9 +20,9 @@ const trueLength = function () {
 
 Object.prototype.trueLength = trueLength;
 
-// Object.setPrototypeOf(trueLength);
+// Object.setPrototypeOf(trueLength); // Not Working
 
-// Object.__proto__.trueLength = trueLength;
+// Object.__proto__.trueLength = trueLength; // NOt working
 
 const userOne = new userInfo("Ashu        ", 12);
 const userTwo = new userInfo("Anshu         ", 120);
